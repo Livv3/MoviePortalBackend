@@ -1,0 +1,17 @@
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\obj\Debug\net7.0\movies.dal.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\obj\Debug\net7.0\movies.dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\obj\Debug\net7.0\movies.dal.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\obj\Debug\net7.0\movies.dal.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\obj\Debug\net7.0\movies.dal.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\bin\Debug\net7.0\movies.dal.deps.json
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\bin\Debug\net7.0\movies.dal.dll
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\bin\Debug\net7.0\movies.dal.pdb
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\bin\Debug\net7.0\movies.bll.dll
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\bin\Debug\net7.0\movies.bll.pdb
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\obj\Debug\net7.0\movies.dal.csproj.CopyComplete
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\obj\Debug\net7.0\movies.dal.dll
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\obj\Debug\net7.0\refint\movies.dal.dll
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\obj\Debug\net7.0\movies.dal.pdb
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\obj\Debug\net7.0\ref\movies.dal.dll
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\bin\Debug\net7.0\movies.dal.runtimeconfig.json
+C:\Users\user\Documents\GitHub\MovieSiteBackEnd\movies.dal\obj\Debug\net7.0\movies.dal.genruntimeconfig.cache
